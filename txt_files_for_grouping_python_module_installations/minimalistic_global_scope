@@ -1,0 +1,6 @@
+pip==25.1.1
+setuptools==78.1.0
+virtualenv==20.30.0
+virtualenvwrapper-win==1.2.7
+pipreqs==0.4.13
+ipython==9.1.0
