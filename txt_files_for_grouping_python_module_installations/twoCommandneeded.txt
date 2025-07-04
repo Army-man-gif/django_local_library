@@ -1,2 +1,2 @@
 pip install -r [nameoffile].txt - { requires the package == versionNumber format}
-pip uninstall -r [nameoffile].txt { requires just the package name}
+python -m pip uninstall -r [nameoffile].txt { requires just the package name}
